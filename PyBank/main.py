@@ -1,4 +1,4 @@
-#import the os model
+
 import pandas as pd 
 df = pd.read_csv (r'/Users/jeffhitt/Desktop/JeffGitHW/python-challenge/PyBank/Resources/budget_data.csv')
 
